@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISM4300 Hello World", "ISM4300 Hello World.csproj", "{60EEEC96-F0B6-4728-8F30-65894983CD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60EEEC96-F0B6-4728-8F30-65894983CD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EEEC96-F0B6-4728-8F30-65894983CD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EEEC96-F0B6-4728-8F30-65894983CD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EEEC96-F0B6-4728-8F30-65894983CD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5275AEE2-AD23-48AB-811A-8D75A01C9F5E}
+	EndGlobalSection
+EndGlobal
